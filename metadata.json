@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Remix CreatorOS AI",
+  "description": "Autonomous Multi-Agent YouTube Automation Studio for trend discovery, grounded research, scriptwriting, fact-checking, storyboarding, AI voiceovers, FFmpeg video rendering, thumbnail composition, SEO optimization, OAuth publishing, and channel analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
